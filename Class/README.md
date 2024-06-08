@@ -1,0 +1,1 @@
+Bu projemde C# basit algoritmalar ile ilgili bir proje yapmak istedim bazı konuları küçükte olsa örnek vererekten bu Repository okuyanların nesneye dayalı programlamayı bir nebze olsun anlamaları için yardım etmeye karar verdim.<br/><br/>
