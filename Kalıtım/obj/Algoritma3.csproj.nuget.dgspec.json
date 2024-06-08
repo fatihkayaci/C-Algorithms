@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\C-Algorithms\\Encapsulation\\Algoritma2.csproj": {}
+    "C:\\Github\\C-Algorithms\\Kalıtım\\Algoritma3.csproj": {}
   },
   "projects": {
-    "C:\\Github\\C-Algorithms\\Encapsulation\\Algoritma2.csproj": {
+    "C:\\Github\\C-Algorithms\\Kalıtım\\Algoritma3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\C-Algorithms\\Encapsulation\\Algoritma2.csproj",
-        "projectName": "Algoritma2",
-        "projectPath": "C:\\Github\\C-Algorithms\\Encapsulation\\Algoritma2.csproj",
+        "projectUniqueName": "C:\\Github\\C-Algorithms\\Kalıtım\\Algoritma3.csproj",
+        "projectName": "Algoritma3",
+        "projectPath": "C:\\Github\\C-Algorithms\\Kalıtım\\Algoritma3.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\C-Algorithms\\Encapsulation\\obj\\",
+        "outputPath": "C:\\Github\\C-Algorithms\\Kalıtım\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
