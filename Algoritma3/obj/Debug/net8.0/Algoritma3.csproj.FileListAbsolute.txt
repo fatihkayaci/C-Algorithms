@@ -1,0 +1,15 @@
+C:\Github\C-Algorithms\Algoritma3\bin\Debug\net8.0\Algoritma3.exe
+C:\Github\C-Algorithms\Algoritma3\bin\Debug\net8.0\Algoritma3.deps.json
+C:\Github\C-Algorithms\Algoritma3\bin\Debug\net8.0\Algoritma3.runtimeconfig.json
+C:\Github\C-Algorithms\Algoritma3\bin\Debug\net8.0\Algoritma3.dll
+C:\Github\C-Algorithms\Algoritma3\bin\Debug\net8.0\Algoritma3.pdb
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\Algoritma3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\Algoritma3.AssemblyInfoInputs.cache
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\Algoritma3.AssemblyInfo.cs
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\Algoritma3.csproj.CoreCompileInputs.cache
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\Algoritma3.sourcelink.json
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\Algoritma3.dll
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\refint\Algoritma3.dll
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\Algoritma3.pdb
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\Algoritma3.genruntimeconfig.cache
+C:\Github\C-Algorithms\Algoritma3\obj\Debug\net8.0\ref\Algoritma3.dll

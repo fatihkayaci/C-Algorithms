@@ -1,0 +1,15 @@
+C:\Github\C-Algorithms\Algoritma2\bin\Debug\net8.0\Algoritma2.exe
+C:\Github\C-Algorithms\Algoritma2\bin\Debug\net8.0\Algoritma2.deps.json
+C:\Github\C-Algorithms\Algoritma2\bin\Debug\net8.0\Algoritma2.runtimeconfig.json
+C:\Github\C-Algorithms\Algoritma2\bin\Debug\net8.0\Algoritma2.dll
+C:\Github\C-Algorithms\Algoritma2\bin\Debug\net8.0\Algoritma2.pdb
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\Algoritma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\Algoritma2.AssemblyInfoInputs.cache
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\Algoritma2.AssemblyInfo.cs
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\Algoritma2.csproj.CoreCompileInputs.cache
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\Algoritma2.sourcelink.json
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\Algoritma2.dll
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\refint\Algoritma2.dll
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\Algoritma2.pdb
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\Algoritma2.genruntimeconfig.cache
+C:\Github\C-Algorithms\Algoritma2\obj\Debug\net8.0\ref\Algoritma2.dll
